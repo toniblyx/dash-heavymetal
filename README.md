@@ -7,7 +7,7 @@ Thank you for these guys, I was able to hack my dash button in such a short amou
 
 ## Demo
 
-See it in action in [Yutube](https://vine.co/v/e2m3emJZVqB)!
+See it in action in [Yutube](https://www.youtube.com/watch?v=a4mOSL6VU0M)!
 
 ## Running the App on your Local Machine
 
@@ -49,7 +49,7 @@ module.exports = {
 Run
 
 ```bash
-$ sudo node index.js
+$ sudo node ironmaiden.js
 ```
 
-Now press your Dash and see what happens.
+Now press your Dash and move your head!
