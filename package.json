@@ -1,15 +1,15 @@
 {
-  "name": "dash-rickroll",
+  "name": "dash-heavymetal",
   "version": "1.0.0",
-  "description": "Rickroll you every time the a Dash button is pressed.",
-  "main": "index.js",
+  "description": "Play Iron Maiden you every time the a Dash button is pressed.",
+  "main": "ironmaiden.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": {
-    "name": "Tomomi Imura",
-    "twitter": "@girlie_mac",
-    "url": "http://girliemac.com"
+    "name": "Tomomi Imura - Toni de la Fuente",
+    "twitter": "@toniblyx",
+    "url": "http://blyx.com"
   },
   "license": "MIT",
   "dependencies": {
