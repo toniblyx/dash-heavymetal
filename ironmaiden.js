@@ -4,7 +4,7 @@ var dash_button = require('node-dash-button');
 var dash = dash_button(config.dash.MAC_address);
 
 dash.on('detected', function (){
-  console.log('Rickrollin');
+  console.log('Heavy Metal!!!');
   var spawn = require('child_process').spawn
-  spawn('open', ['https://www.youtube.com/watch?v=oHg5SJYRHA0']);
+  spawn('open', ['https://www.youtube.com/watch?v=y98-ksHnjE4']);
 });
